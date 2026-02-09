@@ -1,0 +1,29 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - 'alertdialog "Status: Error" [ref=e3]':
+    - generic [ref=e4]:
+      - 'heading "Status: Error" [level=2] [ref=e5]'
+      - paragraph [ref=e6]: An application error occurred. Please try restarting the app or returning to the Playstation Home screen.
+      - group [ref=e7]:
+        - generic "Technical Details" [ref=e8] [cursor=pointer]
+        - paragraph [ref=e9]: "Error Code: APPLICATION_ERROR"
+        - paragraph [ref=e10]: $f/</</<@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:484148 setTimeout handler*$f/</<@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:484141 $f/<@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:484112 T@https://app.staging.fastgamernetwork.com/assets/vendor-BOAFmDgE.js:1:4511 rs@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:47896 ol@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:89065 uu@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:130045 lu@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:129973 au@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:129775 Gc@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:125109 $u@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:141671 I@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:3863 EventHandlerNonNull*Qe/<@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:4250 Qe@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:5804 Ge@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:5855 Ye@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:5913 Je@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:182426 @https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:182461
+  - 'alertdialog "Status: Error" [ref=e11]':
+    - generic [ref=e12]:
+      - 'heading "Status: Error" [level=2] [ref=e13]'
+      - paragraph [ref=e14]: An application error occurred. Please try restarting the app or returning to the Playstation Home screen.
+      - group [ref=e15]:
+        - generic "Technical Details" [ref=e16] [cursor=pointer]
+        - paragraph [ref=e17]: "Error Code: APPLICATION_ERROR"
+        - paragraph [ref=e18]: $f/</</<@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:484148 setTimeout handler*$f/</<@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:484141 $f/<@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:484112 T@https://app.staging.fastgamernetwork.com/assets/vendor-BOAFmDgE.js:1:4511 rs@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:47896 ol@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:89065 uu@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:130045 lu@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:129973 au@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:129775 Gc@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:125109 $u@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:141671 I@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:3863 EventHandlerNonNull*Qe/<@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:4250 Qe@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:5804 Ge@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:5855 Ye@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:5913 Je@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:182426 @https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:182461
+  - 'alertdialog "Status: Error" [ref=e19]':
+    - generic [active] [ref=e20]:
+      - 'heading "Status: Error" [level=2] [ref=e21]'
+      - paragraph [ref=e22]: An application error occurred. Please try restarting the app or returning to the Playstation Home screen.
+      - group [ref=e23]:
+        - generic "Technical Details" [ref=e24] [cursor=pointer]
+        - paragraph [ref=e25]: "Error Code: APPLICATION_ERROR"
+        - paragraph [ref=e26]: $f/</</<@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:484148 setTimeout handler*$f/</<@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:484141 $f/<@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:484112 T@https://app.staging.fastgamernetwork.com/assets/vendor-BOAFmDgE.js:1:4511 rs@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:47896 ol@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:89065 uu@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:130045 lu@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:129973 au@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:129775 Gc@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:125109 $u@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:141671 I@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:3863 EventHandlerNonNull*Qe/<@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:4250 Qe@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:5804 Ge@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:5855 Ye@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:5913 Je@https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:182426 @https://app.staging.fastgamernetwork.com/assets/index-CNKgpBOh.js:2:182461
+```

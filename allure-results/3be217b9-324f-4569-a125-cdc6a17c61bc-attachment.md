@@ -1,0 +1,75 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - main [ref=e3]:
+    - generic [ref=e5]:
+      - button "Live TV Live TV" [ref=e6]:
+        - text: Live TV
+        - img "Live TV" [ref=e7]
+      - button "Browse Browse" [ref=e10]:
+        - text: Browse
+        - img "Browse" [ref=e11]
+      - button "Settings Settings" [ref=e13]:
+        - text: Settings
+        - img "Settings" [ref=e14]
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - heading "Settings" [level=1] [ref=e19]
+        - navigation [ref=e20]:
+          - button "LEGAL AND DATA" [ref=e21]
+          - button "ACCESSIBILITY" [ref=e22]
+      - generic [ref=e23]:
+        - generic [ref=e25]:
+          - generic [ref=e26]:
+            - paragraph [ref=e27]: This app uses cookies and other technologies to improve its operation, make it more personal for you, and provide you with advertising based on your browsing activities and interests on this app and on other apps and sites. To learn more see our Privacy Policy below and in the Legal section of your SONY PICTURES CORE Account Settings menu. To make choices regarding specific cookies and other non-essential technologies, see Accept Data and Other Data below and in the Legal section of your SONY PICTURES CORE Account Settings menu where you may also withdraw your consent after consent is given. You do not need to accept cookies and other non-essential technologies to use this app but turning them off may affect your experience.
+            - generic [ref=e28]:
+              - generic [ref=e29]:
+                - checkbox "Accept Data" [ref=e30]:
+                  - checkbox
+                  - generic [ref=e31]: Accept Data
+                - paragraph [ref=e32]: By turning this ON, you agree that cookies and other non-essential technologies can be used for the purposes referenced above and for the sharing of your data with Sony Pictures and Sony group companies.
+                - generic [ref=e33]:
+                  - button "Sony Pictures Arrow Up Right Icon" [ref=e34]:
+                    - generic [ref=e35]:
+                      - generic [ref=e36]: Sony Pictures
+                      - img "Arrow Up Right Icon" [ref=e37]
+                  - button "Sony group companies Arrow Up Right Icon" [ref=e41]:
+                    - generic [ref=e42]:
+                      - generic [ref=e43]: Sony group companies
+                      - img "Arrow Up Right Icon" [ref=e44]
+              - generic [ref=e48]:
+                - checkbox "Other Data" [ref=e49]:
+                  - checkbox
+                  - generic [ref=e50]: Other Data
+                - paragraph [ref=e51]: By turning this ON, you agree that cookies and other non-essential technologies can be used for the purposes referenced above and by these analytics providers to personalize the app, content and advertising and to make them function better.
+                - generic [ref=e52]:
+                  - checkbox "Google Analytics" [checked] [ref=e53]:
+                    - checkbox [checked]
+                    - generic [ref=e54]: Google Analytics
+                  - checkbox "Video Analytics" [ref=e55]:
+                    - checkbox
+                    - generic [ref=e56]: Video Analytics
+              - generic [ref=e57]:
+                - checkbox "Marketing Opt-In" [ref=e58]:
+                  - checkbox
+                  - generic [ref=e59]: Marketing Opt-In
+                - paragraph [ref=e60]: Yes, I would like to receive marketing communications, updates, special offers (including partner offers), and other information from the Sony family of companies.
+          - complementary [ref=e61]:
+            - region "Terms Of Service" [ref=e62]:
+              - heading "Terms Of Service" [level=2] [ref=e63]
+              - paragraph [ref=e64]:
+                - text: Scan the QR code with your phone camera or visit
+                - text: www.sonypicturescore.com/freetvtos
+              - img "Terms Of Service QR code" [ref=e67]
+            - region "Privacy Policy" [ref=e68]:
+              - heading "Privacy Policy" [level=2] [ref=e69]
+              - paragraph [ref=e70]:
+                - text: Scan the QR code with your phone camera or visit
+                - text: www.sonypicturescore.com/freetvpp
+              - img "Privacy Policy QR code" [ref=e73]
+        - generic [ref=e74]:
+          - generic [ref=e75]: ▲
+          - generic [ref=e76]: ▼
+  - button "Open debug overlay" [ref=e77] [cursor=pointer]: i
+```
